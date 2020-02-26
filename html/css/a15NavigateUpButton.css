@@ -1,0 +1,3895 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,300');
+
+@font-face {
+                          font-family: "SamsungOneKorean-500";
+                          src: url('../fonts/SamsungOneKorean-500_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-400";
+                          src: url('../fonts/SamsungOneKorean-400_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-600";
+                          src: url('../fonts/SamsungOneKorean-600_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-700";
+                          src: url('../fonts/SamsungOneKorean-700_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-300";
+                          src: url('../fonts/SamsungOneKorean-300_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        
+.a15navigateupbutton {
+  width               : 100%;
+  min-width           : 1680px;
+  height              : 100vh;
+  min-height          : 1791px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 244, 248, 1.0);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.a15navigateupbutton .responsivelayout {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1201px;
+  height              : 490px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 41px;
+  height              : 449px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .contentsbox {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 449px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .contentsbox .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 449px;
+  width               : 1240px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw1280 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : 188px;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 981px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw1280 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 188px;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw1280 .tabletlandscape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 135px;
+  width               : 216px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw1280 .width1280 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw1280 .tabletlandscape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 170px;
+  height              : auto;
+  width               : 246px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw820 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 145px;
+  height              : 184px;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 764px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw820 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 184px;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw820 .foldlandscape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 131px;
+  width               : 185px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw820 .width820 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 141px;
+  height              : auto;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw820 .foldlandscape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 166px;
+  height              : auto;
+  width               : 215px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw800 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 269px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 597px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw800 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 269px;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw800 .tabletportrait {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 216px;
+  width               : 135px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw800 .width800 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 226px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw800 .tabletportrait1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 251px;
+  height              : auto;
+  width               : 165px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw760 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 195px;
+  height              : 134px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 394px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw760 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 134px;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw760 .mobilelandscape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 81px;
+  width               : 171px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw760 .width760 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw760 .mobilelandscape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 116px;
+  height              : auto;
+  width               : 201px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw585 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 238px;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 231px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw585 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 238px;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw585 .foldportrait {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 185px;
+  width               : 131px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw585 .width585 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 195px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw585 .foldportrait1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 220px;
+  height              : auto;
+  width               : 161px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw360 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 105px;
+  height              : 224px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 118px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw360 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 224px;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw360 .mobileportrait {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 171px;
+  width               : 81px;
+  position            : absolute;
+  margin              : 0;
+  left                : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw360 .width360 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 181px;
+  height              : auto;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw360 .mobileportrait1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 206px;
+  height              : auto;
+  width               : 111px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw320 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 108px;
+  height              : 221px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw320 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 221px;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw320 .width320 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw320 .foldsublcd {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 203px;
+  height              : auto;
+  width               : 103px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .responsivelayout .group11 .symbolresponsivelayoutsw320 .foldsublcd1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 168px;
+  width               : 72px;
+  position            : absolute;
+  margin              : 0;
+  left                : 16px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .stylebuttonsolidblue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 369px;
+  height              : 40px;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 543px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .stylebuttonsolidblue .btn-view {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 155px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .stylebuttonsolidblue .btn-view .rectangle {
+  background-color    : rgba(3, 129, 254, 1.0);
+  top                 : 0px;
+  height              : 40px;
+  width               : 155px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .responsivelayout .group11 .stylebuttonsolidblue .btn-view .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 7px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 24px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 26.0px;
+}
+.a15navigateupbutton .responsivelayout .responsivelayout1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 22.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 26.0px;
+}
+.a15navigateupbutton .guide {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 801px;
+  height              : 340px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .contentsbox {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 340px;
+  width               : 715px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .contentsbox .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 340px;
+  width               : 715px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 110px;
+  height              : 121px;
+  width               : 518px;
+  position            : absolute;
+  margin              : 0;
+  left                : 99px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .bg {
+  background-color    : rgba(242, 242, 242, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .area {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 73px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitlemore {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 32px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 411px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitlemore .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitlemore .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 21px;
+  width               : 5px;
+  position            : absolute;
+  margin              : 0;
+  left                : 13px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .sampletitle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 73px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "Roboto", Helvetica, Arial, serif;
+  font-weight         : 400;
+  font-style          : normal;
+  font-size           : 24.7px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : left;
+  line-height         : 29.0px;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitleback {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 32px;
+  width               : 32px;
+  position            : absolute;
+  margin              : 0;
+  left                : 26px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitleback .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .mobilelighttheme01actionbartitle1btnback .group1 .mobilelightthemeicon01actionbartitleback .fill1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 4px;
+  height              : 23px;
+  width               : 14px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 72px;
+  height              : 16px;
+  width               : 493px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurerulerright {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 471px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurerulerright .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurerulerright .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : -1px;
+  height              : 19px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 12px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurerulerright .value .a0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 19.0px;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurerulerright .combinedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurearea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurearea .addsamecolorasneeded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing .guidemeasurearea .area {
+  background-color    : rgba(38, 231, 173, 1.0);
+  top                 : 0px;
+  height              : 16px;
+  width               : 468px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 25px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurearea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurearea .addsamecolorasneeded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurearea .area {
+  background-color    : rgba(38, 231, 173, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurerulerbottom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 30px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurerulerbottom .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurerulerbottom .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurerulerbottom .value .a0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.a15navigateupbutton .guide .group .spacing1 .guidemeasurerulerbottom .ruler {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 26px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 121px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 82px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurearea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurearea .addsamecolorasneeded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurearea .area {
+  background-color    : rgba(38, 231, 173, 1.0);
+  top                 : 0px;
+  height              : 88px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurerulerbottom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 30px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurerulerbottom .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurerulerbottom .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurerulerbottom .value .a0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.a15navigateupbutton .guide .group .spacing2 .guidemeasurerulerbottom .ruler {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 16px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 91px;
+  height              : 30px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size .guidemeasurerulerbottom {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 31px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size .guidemeasurerulerbottom .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size .guidemeasurerulerbottom .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 19px;
+  width               : 18px;
+  position            : absolute;
+  margin              : 0;
+  left                : 7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size .guidemeasurerulerbottom .value .a0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : center;
+  line-height         : 19.0px;
+}
+.a15navigateupbutton .guide .group .size .guidemeasurerulerbottom .ruler {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 8px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 21px;
+  height              : 31px;
+  width               : 82px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurearea {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 51px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurearea .addsamecolorasneeded {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurearea .area {
+  background-color    : rgba(255, 129, 195, 1.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 31px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.25;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurerulerleft {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurerulerleft .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurerulerleft .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 5px;
+  height              : 20px;
+  width               : 17px;
+  position            : absolute;
+  margin              : 0;
+  left                : -7px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurerulerleft .value .a0 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : -2px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 16.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : right;
+  line-height         : 19.0px;
+}
+.a15navigateupbutton .guide .group .size1 .guidemeasurerulerleft .ruler {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 31px;
+  width               : 8px;
+  position            : absolute;
+  margin              : 0;
+  left                : 14px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .guidenumberingicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 40px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .guidenumberingicon .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .group .guidenumberingicon .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .guide .properties {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 340px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 735px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .contentsbox1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 340px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .contentsbox1 .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 340px;
+  width               : 505px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 54px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 54px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .guidepropertytitletypeface {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 10px;
+  height              : 24px;
+  width               : 421px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .guidepropertytitletypeface .guideproperty {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 421px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 20.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 24.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .guidenumberingicon {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 11px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .guidenumberingicon .oval {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 22px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertytitleicon .guidenumberingicon .a1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 22px;
+  width               : 24px;
+  position            : absolute;
+  margin              : 0;
+  left                : -1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : center;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 74px;
+  height              : 62px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 62px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .imagethumbnail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : 46px;
+  width               : 220px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .group1 .guidepropertyimagebox {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .group1 .guidepropertyimagebox .bg {
+  background-color    : rgba(255, 0, 255, 1.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertyimage .group1 .guidepropertyimagebox .resource {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 46px;
+  width               : 46px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  object-fit          : cover;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 136px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(3, 129, 254, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic .property {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 212px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic1 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic1 .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic1 .property {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 174px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic2 .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 38px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic2 .value {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 275px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertybasic2 .property {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 250px;
+  height              : 70px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .background {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 70px;
+  width               : 465px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .darkvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 36px;
+  height              : 26px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .darkvalue .rectangle {
+  background-color    : rgba(71, 70, 70, 1.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 67px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .darkvalue .darkvalue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .dark {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .lightvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 6px;
+  height              : 26px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 243px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .lightvalue .rectangle {
+  background-color    : rgba(242, 242, 242, 1.0);
+  top                 : 0px;
+  height              : 26px;
+  width               : 77px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 1px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .lightvalue .lightvalue1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 2px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 4px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .light {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 43px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .guide .properties .guidepropertycolor1line .property {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 8px;
+  height              : auto;
+  width               : 141px;
+  position            : absolute;
+  margin              : 0;
+  left                : 34px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 22.0px;
+}
+.a15navigateupbutton .keyscreens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 194px;
+  height              : 587px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .keyscreens .contentsbox {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 587px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .keyscreens .contentsbox .rectangle {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 587px;
+  width               : 1240px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 10px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .keyscreens .guidekeyscreensmobileportrait {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 507px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 370px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .keyscreens .guidekeyscreensmobileportrait .scrmoport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 507px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  object-fit          : cover;
+}
+.a15navigateupbutton .keyscreens .guidekeyscreensmobileportrait1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 40px;
+  height              : 507px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 630px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .keyscreens .guidekeyscreensmobileportrait1 .scrmoport {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 507px;
+  width               : 240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  object-fit          : cover;
+}
+.a15navigateupbutton .a15navigateupbu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 50px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-300", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 84.0px;
+}
+.a15navigateupbutton .gnbbar1appbar {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1364px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .background {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1364px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu16thumbnailnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1322px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu16thumbnailnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu16thumbnailnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu16thumbnailnormal .gnbmenu .a16thumbnail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu15notificationbadgenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1278px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu15notificationbadgenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu15notificationbadgenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu15notificationbadgenormal .gnbmenu .a15notificationbad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu14descriptionnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1234px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu14descriptionnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu14descriptionnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu14descriptionnormal .gnbmenu .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu14descriptionnormal .gnbmenu .a14description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu13viewcontrolsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1190px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu13viewcontrolsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu13viewcontrolsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu13viewcontrolsnormal .gnbmenu .a13viewcontrols {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu12textfieldsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1146px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu12textfieldsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu12textfieldsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu12textfieldsnormal .gnbmenu .a12textfields {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu11toastnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu11toastnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu11toastnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu11toastnormal .gnbmenu .a11toast {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu10searchnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1058px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu10searchnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu10searchnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu10searchnormal .gnbmenu .a10search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu9scrollingnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1014px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu9scrollingnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu9scrollingnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu9scrollingnormal .gnbmenu .a9scrolling {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu8progressnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 970px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu8progressnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu8progressnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu8progressnormal .gnbmenu .a8progress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu7noitemsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 926px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu7noitemsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu7noitemsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu7noitemsnormal .gnbmenu .a7noitems {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu6listsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 882px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu6listsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu6listsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu6listsnormal .gnbmenu .a6lists {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu5dividersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 838px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu5dividersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu5dividersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu5dividersnormal .gnbmenu .a5dividers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu4dialogsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 794px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu4dialogsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu4dialogsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu4dialogsnormal .gnbmenu .a4dialogs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu3controllersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 750px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu3controllersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu3controllersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu3controllersnormal .gnbmenu .a3controllers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu2buttonsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 706px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu2buttonsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu2buttonsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu2buttonsnormal .gnbmenu .a2buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu1appbarselected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu1appbarselected .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu1appbarselected .gnbmenu .bg {
+  background-color    : rgba(237, 238, 242, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu1appbarselected .gnbmenu .a1appbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.17px;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 662px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 618px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal1 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal1 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal1 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 574px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal2 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal2 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal2 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 530px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal3 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal3 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal3 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 486px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal4 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal4 .gnbsubmenu .bg {
+  background-color    : rgba(237, 238, 242, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal4 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.17px;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 442px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal5 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal5 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal5 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 398px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal6 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal6 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal6 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal7 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal7 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal7 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal8 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal8 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbsubmenunormal8 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0keyscreensnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 222px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0keyscreensnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0keyscreensnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0keyscreensnormal .gnbmenu .a0keyscreens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0fonttablenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0fonttablenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0fonttablenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0fonttablenormal .gnbmenu .a0fonttable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0overviewnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0overviewnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0overviewnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenu0overviewnormal .gnbmenu .overview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenuhistorynormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenuhistorynormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenuhistorynormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnbmenuhistorynormal .gnbmenu .history {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .gotohome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .gotohome .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .gotohome .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 46px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .gotohome .group .webapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.a15navigateupbutton .gnbbar1appbar .gnblogo .gotohome .group .basiccomponentgui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : justify;
+  letter-spacing      : 0.6px;
+  line-height         : 26.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component * {
+  pointer-events      : none;
+}
+.anima-component.anima-not-ready {
+  visibility          : hidden !important;
+}
+.anima-component.anima-not-ready  * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-listeners-active-click {
+  cursor              : pointer;
+}
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-listeners-active {
+  pointer-events      : auto;
+}
+.anima-component a * {
+  pointer-events      : auto;
+}
+.anima-component a {
+  pointer-events      : auto;
+}

@@ -1,0 +1,2912 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,300');
+
+@font-face {
+                          font-family: "SamsungOneKorean-500";
+                          src: url('../fonts/SamsungOneKorean-500_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-400";
+                          src: url('../fonts/SamsungOneKorean-400_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-600";
+                          src: url('../fonts/SamsungOneKorean-600_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-700";
+                          src: url('../fonts/SamsungOneKorean-700_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-300";
+                          src: url('../fonts/SamsungOneKorean-300_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        
+.roundedshape {
+  width               : 100%;
+  min-width           : 1680px;
+  height              : 100vh;
+  min-height          : 1000px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 244, 248, 1.0);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.roundedshape .highlight {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 262px;
+  height              : 158px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1628px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .background {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 1628px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu16thumbnailnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1586px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu16thumbnailnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu16thumbnailnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu16thumbnailnormal .gnbmenu .a16thumbnail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu15notificationbadgenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1542px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu15notificationbadgenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu15notificationbadgenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu15notificationbadgenormal .gnbmenu .a15notificationbad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu14descriptionnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1498px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu14descriptionnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu14descriptionnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu14descriptionnormal .gnbmenu .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu14descriptionnormal .gnbmenu .a14description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu13viewcontrolsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1454px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu13viewcontrolsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu13viewcontrolsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu13viewcontrolsnormal .gnbmenu .a13viewcontrols {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu12textfieldsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1410px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu12textfieldsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu12textfieldsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu12textfieldsnormal .gnbmenu .a12textfields {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu11toastnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1366px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu11toastnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu11toastnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu11toastnormal .gnbmenu .a11toast {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu10searchnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1322px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu10searchnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu10searchnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu10searchnormal .gnbmenu .a10search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu9scrollingnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1278px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu9scrollingnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu9scrollingnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu9scrollingnormal .gnbmenu .a9scrolling {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu8progressnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1234px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu8progressnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu8progressnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu8progressnormal .gnbmenu .a8progress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu7noitemsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1190px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu7noitemsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu7noitemsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu7noitemsnormal .gnbmenu .a7noitems {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu6listsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1146px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu6listsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu6listsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu6listsnormal .gnbmenu .a6lists {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu5dividersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1102px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu5dividersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu5dividersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu5dividersnormal .gnbmenu .a5dividers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu4dialogsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1058px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu4dialogsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu4dialogsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu4dialogsnormal .gnbmenu .a4dialogs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu3controllersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 1014px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu3controllersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu3controllersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu3controllersnormal .gnbmenu .a3controllers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu2buttonsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 970px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu2buttonsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu2buttonsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu2buttonsnormal .gnbmenu .a2buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu1appbarnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 926px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu1appbarnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu1appbarnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu1appbarnormal .gnbmenu .a1appbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu0keyscreensnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 882px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0keyscreensnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0keyscreensnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0keyscreensnormal .gnbmenu .a0keyscreens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu0fonttablenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 838px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0fonttablenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0fonttablenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0fonttablenormal .gnbmenu .a0fonttable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 794px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 750px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal1 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal1 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal1 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 706px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal2 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal2 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal2 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 662px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal3 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal3 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal3 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 618px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal4 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal4 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal4 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 574px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal5 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal5 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal5 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal6 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 530px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal6 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal6 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal6 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal7 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 486px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal7 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal7 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal7 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal8 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 442px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal8 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal8 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal8 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal9 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 398px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal9 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal9 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal9 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal10 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 354px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal10 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal10 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal10 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal11 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 310px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal11 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal11 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal11 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal12 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 266px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal12 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal12 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal12 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal13 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 222px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal13 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal13 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal13 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 178px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal14 .gnbsubmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal14 .gnbsubmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbsubmenunormal14 .gnbsubmenu .text {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 218px;
+  position            : absolute;
+  margin              : 0;
+  left                : 72px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenu0overviewselected {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 134px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0overviewselected .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0overviewselected .gnbmenu .bg {
+  background-color    : rgba(237, 238, 242, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenu0overviewselected .gnbmenu .overview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.17px;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnbmenuhistorynormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenuhistorynormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenuhistorynormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnbmenuhistorynormal .gnbmenu .history {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnblogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnblogo .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnblogo .gotohome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnblogo .gotohome .rectangle3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnblogo .gotohome .group5 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 46px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .gnbbar0overview .gnblogo .gotohome .group5 .webapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.roundedshape .gnbbar0overview .gnblogo .gotohome .group5 .basiccomponentgui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : justify;
+  letter-spacing      : 0.6px;
+  line-height         : 26.0px;
+}
+.roundedshape .roundedshape1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-300", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 84.0px;
+}
+.roundedshape .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 420px;
+  height              : 102px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group .highlight1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 76px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group .uc18duc131 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 30px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .u20221linelistub192uc774uc640ub3d9uc77c {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 30px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .u2022uc77cubc18uc801uc778containedbut {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .u2022listud639uc740uc881uc740uc601uc5educ5d0uc0acuc6a9ub418 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 30px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 672px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .containedbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 30px;
+  width               : 222px;
+  position            : absolute;
+  margin              : 0;
+  left                : 682px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .u2022uad8cuc7a5ud558ub294rounduc911uac00uc7a5uc791uc740 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 90px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : 924px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group .rectangle3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 75px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.roundedshape .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 419px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group1 .rectangle3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 0px;
+  height              : 1px;
+  width               : 1240px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.roundedshape .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 204px;
+  height              : 58px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .largeround {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 28px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 548px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.roundedshape .defaultround {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 28px;
+  width               : 484px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.roundedshape .smallround {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 28px;
+  width               : 316px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1304px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.roundedshape .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 496px;
+  height              : 76px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group2 .highlight1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 76px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group2 .rectangle3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 75px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.roundedshape .group2 .shapevalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 30px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group2 .radius26dpheight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group2 .radius22dpheight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group2 .radius18dpheight {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group2 .radius18dpheightcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : 924px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 572px;
+  height              : 76px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group3 .highlight1 {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 76px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group3 .rectangle3 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 75px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.roundedshape .group3 .textvalue {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 30px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group3 .label1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 30px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group3 .fontsize17dpmar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group3 .fontsize15dpmar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group3 .fontsize14dpmar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : 60px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : 924px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group4 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 648px;
+  height              : 128px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group4 .highlight1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 128px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group4 .uc801uc6a9ub418ub294uacf3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 30px;
+  width               : 128px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group4 .chunkingareadialo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 25px;
+  height              : 90px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 168px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group4 .raisedbuttontoast {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 38px;
+  height              : 60px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group4 .listuc6a9raisedbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 30px;
+  width               : 232px;
+  position            : absolute;
+  margin              : 0;
+  left                : 673px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .group4 .chips {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 51px;
+  height              : 30px;
+  width               : 296px;
+  position            : absolute;
+  margin              : 0;
+  left                : 924px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.roundedshape .rectangle1 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 287px;
+  height              : 108px;
+  width               : 108px;
+  position            : absolute;
+  margin              : 0;
+  left                : 548px;
+  border-radius       : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .rectangle2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 319px;
+  height              : 44px;
+  width               : 148px;
+  position            : absolute;
+  margin              : 0;
+  left                : 800px;
+  border-radius       : 22px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 301px;
+  height              : 80px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1052px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group31 .rectanglecopy2 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 36px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group31 .rectanglecopy4 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 44px;
+  height              : 36px;
+  width               : 64px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 18px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 309px;
+  height              : 64px;
+  width               : 167px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1304px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy5 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy7 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy9 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy6 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 34px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy8 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 34px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 57px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.roundedshape .group21 .rectanglecopy10 {
+  background-color    : rgba(215, 215, 215, 1.0);
+  top                 : 34px;
+  height              : 30px;
+  width               : 53px;
+  position            : absolute;
+  margin              : 0;
+  left                : 114px;
+  border-radius       : 15px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component * {
+  pointer-events      : none;
+}
+.anima-component.anima-not-ready {
+  visibility          : hidden !important;
+}
+.anima-component.anima-not-ready  * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-listeners-active-click {
+  cursor              : pointer;
+}
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-listeners-active {
+  pointer-events      : auto;
+}
+.anima-component a * {
+  pointer-events      : auto;
+}
+.anima-component a {
+  pointer-events      : auto;
+}

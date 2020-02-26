@@ -1,0 +1,2402 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto:400,500,300');
+
+@font-face {
+                          font-family: "SamsungOneKorean-500";
+                          src: url('../fonts/SamsungOneKorean-500_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-400";
+                          src: url('../fonts/SamsungOneKorean-400_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-600";
+                          src: url('../fonts/SamsungOneKorean-600_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-700";
+                          src: url('../fonts/SamsungOneKorean-700_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        @font-face {
+                          font-family: "SamsungOneKorean-300";
+                          src: url('../fonts/SamsungOneKorean-300_v1.2_hinted_20180830.ttf') format("truetype");
+                        }
+                        
+.history {
+  width               : 100%;
+  min-width           : 1680px;
+  height              : 100vh;
+  min-height          : 1178px;
+  position            : relative;
+  overflow            : hidden;
+  margin              : 0px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background-color    : rgba(243, 244, 248, 1.0);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+a {
+  text-decoration     : none;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.anima-full-width-a {
+  width               : 100%;
+}
+.anima-full-height-a {
+  height              : 100%;
+}
+div {
+  -webkit-text-size-adjust: none;
+}
+.history .table {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 172px;
+  height              : 906px;
+  width               : 1243px;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 625px;
+  height              : 281px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+}
+.history .table .group .a20200206 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .a01 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .uc724ubbfcuacbdubc15uc9c0uc218uae40uc11cud76cud558uc608uc2ac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 60px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1050px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 280px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.history .table .group .added {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 240px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 525px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group .group21 .color {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a11actionbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 30px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a13bottombaruc2dcuc548 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 60px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a13bottombaruc2dcuc5481 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 90px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a13bottombaruc2dcuc5482 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 120px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a14extendedappb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 150px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a14extendedappb1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 180px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group .group21 .a22containedbuttcopy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 210px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 267px;
+  height              : 358px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.5;
+  visibility          : inherit;
+}
+.history .table .group1 .a20200212 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .a02 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .uc724ubbfcuacbdubc15uc9c0uc218uae40uc11cud76cud558uc608uc2ac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 60px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1050px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 357px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.history .table .group1 .added {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 318px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 525px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group1 .group21 .roundedshape {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a11actionbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a12title {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a13bottombar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 96px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a14extendedappb {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 128px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a15navigateupbu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 160px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a16moreoption {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 192px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a17moreoptionli {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 224px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a18actionbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 256px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group1 .group21 .a19editappbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 288px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 68px;
+  height              : 199px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group2 .highlight {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 199px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.9;
+  visibility          : inherit;
+}
+.history .table .group2 .a20200219 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .a03 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 210px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .a14 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 315px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .uc724ubbfcuacbdubc15uc9c0uc218uae40uc11cud76cud558uc608uc2ac {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 60px;
+  width               : 170px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1050px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .rectangle1 {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 198px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.history .table .group2 .group31 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 94px;
+  width               : 610px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group2 .group31 .added {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .group31 .a21flatbutton {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+  text-decoration     : underline;
+}
+.history .table .group2 .group31 .a22containedbutt {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 32px;
+  height              : auto;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+  text-decoration     : underline;
+}
+.history .table .group2 .group31 .a23flatingaction {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 64px;
+  height              : auto;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+  text-decoration     : underline;
+}
+.history .table .group2 .group3copy {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 144px;
+  height              : 30px;
+  width               : 610px;
+  position            : absolute;
+  margin              : 0;
+  left                : 420px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group2 .group3copy .modified {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 85px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .group2 .group3copy .alldocumentsmodifi {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 30px;
+  width               : 505px;
+  position            : absolute;
+  margin              : 0;
+  left                : 105px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-400", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 30.0px;
+}
+.history .table .rectangle {
+  background-color    : rgba(0, 0, 0, 1.0);
+  top                 : 57px;
+  height              : 1px;
+  width               : 1240px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.08;
+  visibility          : inherit;
+}
+.history .table .group3 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 1243px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject .background {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 190px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 28px;
+  width               : 150px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.history .table .group3 .tablecellsubject1 {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 190px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject1 .background {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 106px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject1 .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 28px;
+  width               : 66px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.history .table .group3 .tablecellsubject2 {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 295px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject2 .background {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 105px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject2 .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 28px;
+  width               : 65px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.history .table .group3 .tablecellsubject3 {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 400px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject3 .background {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 630px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject3 .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 28px;
+  width               : 590px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.history .table .group3 .tablecellsubject4 {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 1030px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject4 .background {
+  background-color    : rgba(88, 87, 87, 1.0);
+  top                 : 0px;
+  height              : 68px;
+  width               : 213px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .table .group3 .tablecellsubject4 .subject {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : 28px;
+  width               : 173px;
+  position            : absolute;
+  margin              : 0;
+  left                : 20px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 18.0px;
+  color               : rgba(255, 255, 255, 1.0);
+  text-align          : left;
+  line-height         : 28.0px;
+}
+.history .history1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 31px;
+  height              : auto;
+  width               : auto;
+  position            : absolute;
+  margin              : 0;
+  left                : 380px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-300", Helvetica, Arial, serif;
+  font-size           : 70.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 84.0px;
+}
+.history .gnbbarbasic {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 967px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .background {
+  background-color    : rgba(255, 255, 255, 1.0);
+  top                 : 0px;
+  height              : 967px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu16thumbnailnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 925px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu16thumbnailnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu16thumbnailnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu16thumbnailnormal .gnbmenu .a16thumbnail {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu15notificationbadgenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 881px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu15notificationbadgenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu15notificationbadgenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu15notificationbadgenormal .gnbmenu .a15notificationbad {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu14descriptionnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 837px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu14descriptionnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu14descriptionnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu14descriptionnormal .gnbmenu .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu14descriptionnormal .gnbmenu .a14description {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu13viewcontrolsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 793px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu13viewcontrolsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu13viewcontrolsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu13viewcontrolsnormal .gnbmenu .a13viewcontrols {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu12textfieldsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 749px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu12textfieldsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu12textfieldsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu12textfieldsnormal .gnbmenu .a12textfields {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu11toastnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 705px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu11toastnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu11toastnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu11toastnormal .gnbmenu .a11toast {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu10searchnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 661px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu10searchnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu10searchnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu10searchnormal .gnbmenu .a10search {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu9scrollingnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 617px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu9scrollingnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu9scrollingnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu9scrollingnormal .gnbmenu .a9scrolling {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu8progressnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 573px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu8progressnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu8progressnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu8progressnormal .gnbmenu .a8progress {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu7noitemsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 529px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu7noitemsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu7noitemsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu7noitemsnormal .gnbmenu .a7noitems {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu6listsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 485px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu6listsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu6listsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu6listsnormal .gnbmenu .a6lists {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu5dividersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 441px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu5dividersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu5dividersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu5dividersnormal .gnbmenu .a5dividers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu4dialogsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 397px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu4dialogsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu4dialogsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu4dialogsnormal .gnbmenu .a4dialogs {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu3controllersnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 353px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu3controllersnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu3controllersnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu3controllersnormal .gnbmenu .a3controllers {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu2buttonsnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 309px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu2buttonsnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu2buttonsnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu2buttonsnormal .gnbmenu .a2buttons {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu1appbarnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 265px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu1appbarnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu1appbarnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu1appbarnormal .gnbmenu .a1appbar {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu0keyscreensnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 221px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0keyscreensnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0keyscreensnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0keyscreensnormal .gnbmenu .a0keyscreens {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu0fonttablenormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 177px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0fonttablenormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0fonttablenormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0fonttablenormal .gnbmenu .a0fonttable {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenu0overviewnormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 133px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.3;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0overviewnormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0overviewnormal .gnbmenu .bg {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenu0overviewnormal .gnbmenu .overview {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-500", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnbmenuhistorynormal {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 89px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenuhistorynormal .gnbmenu {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : relative;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenuhistorynormal .gnbmenu .bg {
+  background-color    : rgba(237, 238, 242, 1.0);
+  top                 : 0px;
+  height              : 42px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnbmenuhistorynormal .gnbmenu .history2 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 12px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.17px;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnblogo {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  overflow            : hidden;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnblogo .background1 {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 90px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnblogo .gotohome {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnblogo .gotohome .rectangle {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : 89px;
+  width               : 320px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnblogo .gotohome .group {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 22px;
+  height              : 46px;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 30px;
+  transform           : rotate(0deg);
+  opacity             : 1.0;
+  visibility          : inherit;
+}
+.history .gnbbarbasic .gnblogo .gotohome .group .webapp {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 0px;
+  height              : auto;
+  width               : 260px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.6;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-600", Helvetica, Arial, serif;
+  font-size           : 15.0px;
+  color               : rgba(0, 0, 0, 1.0);
+  text-align          : left;
+  letter-spacing      : 0.3px;
+  line-height         : 18.0px;
+}
+.history .gnbbarbasic .gnblogo .gotohome .group .basiccomponentgui {
+  background-color    : rgba(255,255,255,0.0);
+  top                 : 20px;
+  height              : auto;
+  width               : 261px;
+  position            : absolute;
+  margin              : 0;
+  left                : 0px;
+  transform           : rotate(0deg);
+  opacity             : 0.8;
+  visibility          : inherit;
+  font-family         : "SamsungOneKorean-700", Helvetica, Arial, serif;
+  font-size           : 21.0px;
+  color               : rgba(37, 37, 37, 1.0);
+  text-align          : justify;
+  letter-spacing      : 0.6px;
+  line-height         : 26.0px;
+}
+/* .anima-animate-appear prefix for appear animations */
+.anima-animate-appear {
+  opacity             : 0;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 normal forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 normal forwards;
+}
+.anima-animate-disappear {
+  opacity             : 1;
+  display             : block;
+  -webkit-animation   : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  -moz-animation      : anima-reveal 0.3s ease-in 1 normal forwards;
+  -o-animation        : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+  animation           : anima-reveal 0.3s ease-in-out 1 reverse forwards;
+}
+.anima-animate-nodelay {
+  -webkit-animation-delay: 0;
+  -moz-animation-delay: 0;
+  -o-animation-delay  : 0;
+  animation-delay     : 0;
+}
+@-webkit-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-moz-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@-o-keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+@keyframes anima-reveal {
+  0%
+   
+  {
+      opacity: 0;
+    }
+  
+    
+  100%
+   
+  {
+      opacity: 1;
+    }
+}
+.anima-valign-text-middle {
+  display             : flex;
+  flex-direction      : column;
+  justify-content     : center;
+}
+.anima-component * {
+  pointer-events      : none;
+}
+.anima-component.anima-not-ready {
+  visibility          : hidden !important;
+}
+.anima-component.anima-not-ready  * {
+  visibility          : hidden !important;
+}
+.anima-listeners-active-click * {
+  cursor              : pointer;
+}
+.anima-listeners-active-click {
+  cursor              : pointer;
+}
+.anima-listeners-active * {
+  pointer-events      : auto;
+}
+.anima-listeners-active {
+  pointer-events      : auto;
+}
+.anima-component a * {
+  pointer-events      : auto;
+}
+.anima-component a {
+  pointer-events      : auto;
+}
